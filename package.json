@@ -21,7 +21,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@kevinmarrec/nuxt-pwa": "^0.17.0",
+    "@kevinmarrec/nuxt-pwa": "^0.0.2",
     "@nuxt/image": "^1.0.0",
     "@unocss/nuxt": "^0.57.1",
     "@vite-pwa/nuxt": "^0.1.1",
