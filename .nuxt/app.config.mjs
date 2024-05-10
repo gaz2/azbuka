@@ -4,7 +4,7 @@ import { defuFn } from '/home/gzdb/WebSitesProjects/azbuka/node_modules/defu/dis
 
 const inlineConfig = {
   "nuxt": {
-    "buildId": "test"
+    "buildId": "d8ff422f-c5e5-4204-81ff-d37e58c8bad0"
   }
 }
 

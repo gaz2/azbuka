@@ -2,7 +2,6 @@
   <v-footer
     class="text-center d-flex flex-column" style="background-color: #282828" 
   >
-
     <div class="text-center">
       <v-container fluid>
         <v-row justify="center" align="center">
@@ -13,7 +12,7 @@
           </v-col>
           <v-col cols="auto">
             <NuxtLink to="/azbuka-chisel" class="nav-link2">
-              <h3 class="center-h2-white">АЗБУКА ЧИСЕЛ</h3>
+              <h3 class="center-h2-white">АЗБУКА ЛОТО</h3>
                 </NuxtLink>
           </v-col>
           <v-col cols="auto">
@@ -28,8 +27,7 @@
           </v-col>
           
         </v-row>
-    </v-container>
-    
+    </v-container>  
   </div>
   <v-divider></v-divider>
 

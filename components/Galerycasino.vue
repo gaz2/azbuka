@@ -6,15 +6,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/casino1.webp"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -30,15 +26,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/casino2.webp"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -50,7 +42,6 @@
               </template>
             </NuxtImg>            
           </v-col>
-
           <v-col
             v-for="n in 1"
             :key="i"
@@ -60,10 +51,7 @@
             <NuxtImg
               src="/casino3.webp"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -79,15 +67,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/casino4.webp"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -106,7 +90,7 @@
             
           >
             <NuxtImg
-              src="/cazino11.jpg"
+              src="/cazinonew5.webp"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
@@ -151,15 +135,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/cazino13.jpg"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -182,8 +162,6 @@
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -199,15 +177,12 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/cazino15.jpg"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -223,15 +198,12 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/cazino16.jpg"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -247,15 +219,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/cazino17.jpg"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row
@@ -271,15 +239,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
               src="/cazino18.jpg"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row

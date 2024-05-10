@@ -10,7 +10,7 @@
             
           >
             <NuxtImg
-              src="/karty1.jpg"
+              src="/kartynew-1.webp"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
@@ -34,7 +34,7 @@
             
           >
             <NuxtImg
-              src="/karty2.jpg"
+              src="/kartynew-2.webp"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
@@ -59,7 +59,7 @@
             
           >
             <NuxtImg
-              src="/karty5.jpg"
+              src="/kartynew-3.webp"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
@@ -80,15 +80,32 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
-              src="/karty6.jpg"
+              src="/kartynew-4.webp"
               alt="Казино вкусов"
               
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
+            >
+              <template v-slot:placeholder>
+                <v-row
+                  class="fill-height ma-0"
+                  align="center"
+                  justify="center"
+                >
+                </v-row>
+              </template>
+            </NuxtImg>            
+          </v-col>
+          <v-col
+            v-for="n in 1"
+            :key="i"
+            class="auto"  
+          >
+            <NuxtImg
+              src="/kartynew-5.webp"
+              alt="Казино вкусов"
+              sizes="xs:40vw sm:100vw md:200vw lg:400px"
             >
               <template v-slot:placeholder>
                 <v-row
@@ -104,63 +121,11 @@
             v-for="n in 1"
             :key="i"
             class="auto"
-            
           >
             <NuxtImg
-              src="/karty7.jpg"
+              src="/kartynew-6.webp"
               alt="Казино вкусов"
-              
               sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
-            >
-              <template v-slot:placeholder>
-                <v-row
-                  class="fill-height ma-0"
-                  align="center"
-                  justify="center"
-                >
-                </v-row>
-              </template>
-            </NuxtImg>            
-          </v-col>
-          <v-col
-            v-for="n in 1"
-            :key="i"
-            class="auto"
-            
-          >
-            <NuxtImg
-              src="/karty8.jpg"
-              alt="Казино вкусов"
-              
-              sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
-            >
-              <template v-slot:placeholder>
-                <v-row
-                  class="fill-height ma-0"
-                  align="center"
-                  justify="center"
-                >
-                </v-row>
-              </template>
-            </NuxtImg>            
-          </v-col>
-          <v-col
-            v-for="n in 1"
-            :key="i"
-            class="auto"
-            
-          >
-            <NuxtImg
-              src="/karty4.jpg"
-              alt="Казино вкусов"
-              
-              sizes="xs:40vw sm:100vw md:200vw lg:400px"
-            
-              
             >
               <template v-slot:placeholder>
                 <v-row

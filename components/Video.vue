@@ -22,7 +22,6 @@
                           </h2>
                           </v-btn>
                       </div>
-
                           <NuxtImg
                             format="jpg"
                             class="white--text align-end"

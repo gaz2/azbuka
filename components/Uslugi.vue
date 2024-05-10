@@ -50,7 +50,7 @@
                             variant="text"
                           >
                             <h2 class="center-h2">
-                            АЗБУКА ЧИСЕЛ
+                            АЗБУКА ЛОТО
 
                           </h2>
                     </v-btn>
